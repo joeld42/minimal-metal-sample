@@ -26,7 +26,6 @@
 		6DAB6E192246E38A00ABCDD1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6DAB6E1A2246E38A00ABCDD1 /* minimal_metal_sample.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = minimal_metal_sample.entitlements; sourceTree = "<group>"; };
 		6DAB6E202246E3CD00ABCDD1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		6DAB6E222246E58000ABCDD1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,7 +67,6 @@
 				6DAB6E192246E38A00ABCDD1 /* Info.plist */,
 				6DAB6E1A2246E38A00ABCDD1 /* minimal_metal_sample.entitlements */,
 				6DAB6E202246E3CD00ABCDD1 /* main.swift */,
-				6DAB6E222246E58000ABCDD1 /* README.md */,
 			);
 			path = "minimal-metal-sample";
 			sourceTree = "<group>";
